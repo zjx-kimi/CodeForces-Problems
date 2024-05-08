@@ -1,0 +1,13 @@
+pid: P1009G
+owner: 1
+title: Allowed Letters
+tag:
+  - bitmasks
+  - flows
+  - graph matchings
+  - graphs
+  - greedy
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

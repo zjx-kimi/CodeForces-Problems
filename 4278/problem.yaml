@@ -1,0 +1,15 @@
+pid: P1129C
+owner: 1
+title: Morse Code
+tag:
+  - binary search
+  - data structures
+  - dp
+  - hashing
+  - sortings
+  - string suffix structures
+  - strings
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

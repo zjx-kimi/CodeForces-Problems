@@ -1,0 +1,13 @@
+pid: P1804E
+owner: 1
+title: Routing
+tag:
+  - bitmasks
+  - brute force
+  - dfs and similar
+  - dp
+  - graphs
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

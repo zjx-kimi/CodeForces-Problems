@@ -1,0 +1,14 @@
+pid: P552E
+owner: 1
+title: Vanya and Brackets
+tag:
+  - brute force
+  - dp
+  - expression parsing
+  - greedy
+  - implementation
+  - strings
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

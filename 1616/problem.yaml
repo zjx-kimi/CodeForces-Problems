@@ -1,0 +1,13 @@
+pid: P1657F
+owner: 1
+title: Words on Tree
+tag:
+  - 2-sat
+  - dfs and similar
+  - dsu
+  - graphs
+  - trees
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

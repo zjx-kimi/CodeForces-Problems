@@ -1,0 +1,12 @@
+pid: P1400C
+owner: 1
+title: Binary String Reconstruction
+tag:
+  - 2-sat
+  - brute force
+  - constructive algorithms
+  - greedy
+  - '*1500'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

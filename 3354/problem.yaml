@@ -1,0 +1,13 @@
+pid: P1305G
+owner: 1
+title: Kuroni and Antihype
+tag:
+  - bitmasks
+  - brute force
+  - dp
+  - dsu
+  - graphs
+  - '*3500'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

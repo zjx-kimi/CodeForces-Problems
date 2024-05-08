@@ -1,0 +1,13 @@
+pid: P1721D
+owner: 1
+title: Maximum AND
+tag:
+  - bitmasks
+  - dfs and similar
+  - divide and conquer
+  - greedy
+  - sortings
+  - '*1800'
+nSubmit: 1
+nAccept: 1
+difficulty: 6

@@ -1,0 +1,13 @@
+pid: P1043D
+owner: 1
+title: Mysterious Crime
+tag:
+  - brute force
+  - combinatorics
+  - math
+  - meet-in-the-middle
+  - two pointers
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

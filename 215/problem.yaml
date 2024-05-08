@@ -1,0 +1,19 @@
+pid: P1895E
+owner: 1
+title: Infinite Card Game
+tag:
+  - binary search
+  - brute force
+  - data structures
+  - dfs and similar
+  - dp
+  - dsu
+  - games
+  - graphs
+  - greedy
+  - sortings
+  - two pointers
+  - '*2300'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

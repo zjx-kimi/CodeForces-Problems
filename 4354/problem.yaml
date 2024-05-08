@@ -1,0 +1,12 @@
+pid: P1108F
+owner: 1
+title: MST Unification
+tag:
+  - binary search
+  - dsu
+  - graphs
+  - greedy
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

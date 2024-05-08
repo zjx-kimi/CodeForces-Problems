@@ -1,0 +1,12 @@
+pid: P1804D
+owner: 1
+title: Accommodation
+tag:
+  - brute force
+  - dp
+  - greedy
+  - implementation
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

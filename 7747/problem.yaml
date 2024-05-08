@@ -1,0 +1,14 @@
+pid: P1560F1
+owner: 1
+title: Nearest Beautiful Number (easy version)
+tag:
+  - binary search
+  - bitmasks
+  - brute force
+  - constructive algorithms
+  - dfs and similar
+  - greedy
+  - '*1900'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

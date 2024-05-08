@@ -1,0 +1,13 @@
+pid: P1176E
+owner: 1
+title: Cover it!
+tag:
+  - dfs and similar
+  - dsu
+  - graphs
+  - shortest paths
+  - trees
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

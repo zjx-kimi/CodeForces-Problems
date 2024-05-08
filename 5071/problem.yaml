@@ -1,0 +1,13 @@
+pid: P997B
+owner: 1
+title: Roman Digits
+tag:
+  - brute force
+  - combinatorics
+  - dp
+  - greedy
+  - math
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

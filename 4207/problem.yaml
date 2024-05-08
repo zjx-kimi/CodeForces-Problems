@@ -1,0 +1,10 @@
+pid: P1144G
+owner: 1
+title: Two Merged Sequences
+tag:
+  - dp
+  - greedy
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

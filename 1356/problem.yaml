@@ -1,0 +1,15 @@
+pid: P1696H
+owner: 1
+title: Maximum Product?
+tag:
+  - brute force
+  - combinatorics
+  - dp
+  - greedy
+  - implementation
+  - math
+  - two pointers
+  - '*3500'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

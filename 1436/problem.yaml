@@ -1,0 +1,13 @@
+pid: P1680F
+owner: 1
+title: Lenient Vertex Cover
+tag:
+  - dfs and similar
+  - divide and conquer
+  - dsu
+  - graphs
+  - trees
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

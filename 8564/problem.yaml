@@ -1,0 +1,12 @@
+pid: P291C
+owner: 1
+title: Network Mask
+tag:
+  - '*special problem'
+  - bitmasks
+  - brute force
+  - implementation
+  - '*1600'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

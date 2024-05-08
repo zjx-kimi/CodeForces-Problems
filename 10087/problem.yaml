@@ -1,0 +1,11 @@
+pid: P1937B
+owner: 1
+title: Binary Path
+tag:
+  - dp
+  - greedy
+  - implementation
+  - '*1300'
+nSubmit: 0
+nAccept: 0
+difficulty: 4

@@ -1,0 +1,11 @@
+pid: P1132E
+owner: 1
+title: Knapsack
+tag:
+  - dfs and similar
+  - dp
+  - greedy
+  - '*2300'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

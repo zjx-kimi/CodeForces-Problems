@@ -1,0 +1,13 @@
+pid: P1343E
+owner: 1
+title: Weights Distributing
+tag:
+  - brute force
+  - graphs
+  - greedy
+  - shortest paths
+  - sortings
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

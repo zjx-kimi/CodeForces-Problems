@@ -1,0 +1,15 @@
+pid: P1721F
+owner: 1
+title: Matching Reduction
+tag:
+  - brute force
+  - constructive algorithms
+  - dfs and similar
+  - flows
+  - graph matchings
+  - graphs
+  - interactive
+  - '*2800'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

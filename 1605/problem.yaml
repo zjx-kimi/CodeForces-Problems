@@ -1,0 +1,14 @@
+pid: P1659E
+owner: 1
+title: AND-MEX Walk
+tag:
+  - bitmasks
+  - brute force
+  - constructive algorithms
+  - dfs and similar
+  - dsu
+  - graphs
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

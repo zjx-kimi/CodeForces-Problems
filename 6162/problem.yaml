@@ -1,0 +1,12 @@
+pid: P776D
+owner: 1
+title: The Door Problem
+tag:
+  - 2-sat
+  - dfs and similar
+  - dsu
+  - graphs
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

@@ -1,0 +1,15 @@
+pid: P1486E
+owner: 1
+title: Paired Payment
+tag:
+  - binary search
+  - brute force
+  - constructive algorithms
+  - dp
+  - flows
+  - graphs
+  - shortest paths
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

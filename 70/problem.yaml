@@ -1,0 +1,13 @@
+pid: P1917B
+owner: 1
+title: Erase First or Second Letter
+tag:
+  - brute force
+  - combinatorics
+  - data structures
+  - dp
+  - strings
+  - '*1100'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

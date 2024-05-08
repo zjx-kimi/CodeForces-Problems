@@ -1,0 +1,13 @@
+pid: P1200E
+owner: 1
+title: Compress Words
+tag:
+  - brute force
+  - hashing
+  - implementation
+  - string suffix structures
+  - strings
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

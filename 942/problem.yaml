@@ -1,0 +1,12 @@
+pid: P1773D
+owner: 1
+title: Dominoes
+tag:
+  - combinatorics
+  - flows
+  - graph matchings
+  - greedy
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

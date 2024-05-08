@@ -1,0 +1,13 @@
+pid: P1494C
+owner: 1
+title: 1D Sokoban
+tag:
+  - binary search
+  - dp
+  - greedy
+  - implementation
+  - two pointers
+  - '*1900'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

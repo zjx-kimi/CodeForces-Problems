@@ -1,0 +1,13 @@
+pid: P1619G
+owner: 1
+title: Unusual Minesweeper
+tag:
+  - binary search
+  - dfs and similar
+  - dsu
+  - greedy
+  - sortings
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

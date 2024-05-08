@@ -1,0 +1,11 @@
+pid: P1140D
+owner: 1
+title: Minimum Triangulation
+tag:
+  - dp
+  - greedy
+  - math
+  - '*1200'
+nSubmit: 0
+nAccept: 0
+difficulty: 4

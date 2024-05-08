@@ -1,0 +1,9 @@
+pid: P915C
+owner: 2
+title: Permute Digits
+tag:
+  - dp
+  - greedy
+  - '*1700'
+nSubmit: 1
+nAccept: 1

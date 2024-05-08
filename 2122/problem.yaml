@@ -1,0 +1,15 @@
+pid: P1553E
+owner: 1
+title: Permutation Shift
+tag:
+  - brute force
+  - combinatorics
+  - constructive algorithms
+  - dfs and similar
+  - dsu
+  - graphs
+  - math
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

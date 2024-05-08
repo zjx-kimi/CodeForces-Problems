@@ -1,0 +1,13 @@
+pid: P1472F
+owner: 1
+title: New Year's Puzzle
+tag:
+  - brute force
+  - dp
+  - graph matchings
+  - greedy
+  - sortings
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

@@ -1,0 +1,13 @@
+pid: P468B
+owner: 1
+title: Two Sets
+tag:
+  - 2-sat
+  - dfs and similar
+  - dsu
+  - graph matchings
+  - greedy
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

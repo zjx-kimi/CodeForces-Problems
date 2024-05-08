@@ -1,0 +1,15 @@
+pid: P1175E
+owner: 1
+title: Minimal Segment Cover
+tag:
+  - data structures
+  - dfs and similar
+  - divide and conquer
+  - dp
+  - greedy
+  - implementation
+  - trees
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

@@ -1,0 +1,5 @@
+time: 4s
+memory: 256m
+type: remote_judge
+subType: codeforces
+target: P1101D

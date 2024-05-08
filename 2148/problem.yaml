@@ -1,0 +1,15 @@
+pid: P1549B
+owner: 1
+title: Gregor and the Pawn Game
+tag:
+  - dfs and similar
+  - dp
+  - flows
+  - graph matchings
+  - graphs
+  - greedy
+  - implementation
+  - '*800'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

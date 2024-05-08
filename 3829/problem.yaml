@@ -1,0 +1,13 @@
+pid: P1209G1
+owner: 1
+title: Into Blocks (easy version)
+tag:
+  - data structures
+  - dsu
+  - greedy
+  - implementation
+  - two pointers
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

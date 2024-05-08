@@ -1,0 +1,15 @@
+pid: P1929E
+owner: 1
+title: Sasha and the Happy Tree Cutting
+tag:
+  - bitmasks
+  - brute force
+  - dfs and similar
+  - dp
+  - graphs
+  - greedy
+  - trees
+  - '*2300'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

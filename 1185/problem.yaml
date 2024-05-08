@@ -1,0 +1,11 @@
+pid: P1728F
+owner: 1
+title: Fishermen
+tag:
+  - flows
+  - graph matchings
+  - greedy
+  - '*3100'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

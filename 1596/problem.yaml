@@ -1,0 +1,15 @@
+pid: P1661B
+owner: 1
+title: Getting Zero
+tag:
+  - bitmasks
+  - brute force
+  - dfs and similar
+  - dp
+  - graphs
+  - greedy
+  - shortest paths
+  - '*1300'
+nSubmit: 0
+nAccept: 0
+difficulty: 4

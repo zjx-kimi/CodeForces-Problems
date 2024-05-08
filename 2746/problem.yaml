@@ -1,0 +1,14 @@
+pid: P1430G
+owner: 1
+title: Yet Another DAG Problem
+tag:
+  - bitmasks
+  - dfs and similar
+  - dp
+  - flows
+  - graphs
+  - math
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

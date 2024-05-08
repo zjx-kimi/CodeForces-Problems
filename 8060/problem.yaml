@@ -1,0 +1,11 @@
+pid: P919D
+owner: 1
+title: Substring
+tag:
+  - dfs and similar
+  - dp
+  - graphs
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

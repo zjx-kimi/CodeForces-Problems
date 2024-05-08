@@ -1,0 +1,12 @@
+pid: P1149D
+owner: 1
+title: Abandoning Roads
+tag:
+  - brute force
+  - dp
+  - graphs
+  - greedy
+  - '*3000'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

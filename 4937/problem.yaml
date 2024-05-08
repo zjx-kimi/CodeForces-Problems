@@ -1,0 +1,11 @@
+pid: P1826D
+owner: 1
+title: Running Miles
+tag:
+  - brute force
+  - dp
+  - greedy
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

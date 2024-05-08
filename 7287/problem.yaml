@@ -1,0 +1,11 @@
+pid: P509C
+owner: 1
+title: Sums of Digits
+tag:
+  - dp
+  - greedy
+  - implementation
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

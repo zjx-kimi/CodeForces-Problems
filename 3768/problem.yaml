@@ -1,0 +1,11 @@
+pid: P1217C
+owner: 1
+title: The Number Of Good Substrings
+tag:
+  - binary search
+  - bitmasks
+  - brute force
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

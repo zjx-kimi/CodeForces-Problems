@@ -1,0 +1,11 @@
+pid: P245H
+owner: 1
+title: Queries for Number of Palindromes
+tag:
+  - dp
+  - hashing
+  - strings
+  - '*1800'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

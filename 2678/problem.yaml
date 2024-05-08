@@ -1,0 +1,13 @@
+pid: P1444E
+owner: 1
+title: Finding the Vertex
+tag:
+  - brute force
+  - dfs and similar
+  - dp
+  - interactive
+  - trees
+  - '*3500'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

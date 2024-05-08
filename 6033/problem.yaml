@@ -1,0 +1,14 @@
+pid: P804D
+owner: 1
+title: Expected diameter of a tree
+tag:
+  - binary search
+  - brute force
+  - dfs and similar
+  - dp
+  - sortings
+  - trees
+  - '*2500'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

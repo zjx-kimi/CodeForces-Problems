@@ -1,0 +1,13 @@
+pid: P1594E2
+owner: 1
+title: Rubik's Cube Coloring (hard version)
+tag:
+  - brute force
+  - dp
+  - implementation
+  - math
+  - trees
+  - '*2300'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

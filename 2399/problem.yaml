@@ -1,0 +1,15 @@
+pid: P1503C
+owner: 1
+title: Travelling Salesman Problem
+tag:
+  - binary search
+  - data structures
+  - dp
+  - greedy
+  - shortest paths
+  - sortings
+  - two pointers
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

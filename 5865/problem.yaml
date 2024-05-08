@@ -1,0 +1,12 @@
+pid: P835D
+owner: 1
+title: Palindromic characteristics
+tag:
+  - brute force
+  - dp
+  - hashing
+  - strings
+  - '*1900'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

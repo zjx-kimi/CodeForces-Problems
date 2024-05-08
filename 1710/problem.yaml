@@ -1,0 +1,15 @@
+pid: P1635E
+owner: 1
+title: Cars
+tag:
+  - 2-sat
+  - constructive algorithms
+  - dfs and similar
+  - dsu
+  - graphs
+  - greedy
+  - sortings
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

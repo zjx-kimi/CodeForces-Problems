@@ -1,0 +1,11 @@
+pid: P1097B
+owner: 1
+title: Petr and a Combination Lock
+tag:
+  - bitmasks
+  - brute force
+  - dp
+  - '*1200'
+nSubmit: 0
+nAccept: 0
+difficulty: 4

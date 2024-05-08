@@ -1,0 +1,13 @@
+pid: P769C
+owner: 1
+title: Cycle In Maze
+tag:
+  - '*special problem'
+  - dfs and similar
+  - graphs
+  - greedy
+  - shortest paths
+  - '*1700'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

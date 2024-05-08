@@ -1,0 +1,15 @@
+pid: P1651E
+owner: 1
+title: Sum of Matchings
+tag:
+  - brute force
+  - combinatorics
+  - constructive algorithms
+  - dfs and similar
+  - graph matchings
+  - greedy
+  - math
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

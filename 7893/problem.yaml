@@ -1,0 +1,15 @@
+pid: P1383A
+owner: 1
+title: String Transformation 1
+tag:
+  - dsu
+  - graphs
+  - greedy
+  - sortings
+  - strings
+  - trees
+  - two pointers
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

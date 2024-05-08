@@ -1,0 +1,15 @@
+pid: P1400G
+owner: 1
+title: Mercenaries
+tag:
+  - bitmasks
+  - brute force
+  - combinatorics
+  - dp
+  - dsu
+  - math
+  - two pointers
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

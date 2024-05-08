@@ -1,0 +1,11 @@
+pid: P1342F
+owner: 1
+title: Make It Ascending
+tag:
+  - bitmasks
+  - brute force
+  - dp
+  - '*3000'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

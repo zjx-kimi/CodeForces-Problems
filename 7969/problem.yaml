@@ -1,0 +1,12 @@
+pid: P1203D2
+owner: 1
+title: Remove the Substring (hard version)
+tag:
+  - binary search
+  - greedy
+  - implementation
+  - two pointers
+  - '*1700'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

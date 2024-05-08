@@ -1,0 +1,13 @@
+pid: P1335E1
+owner: 1
+title: Three Blocks Palindrome (easy version)
+tag:
+  - binary search
+  - brute force
+  - data structures
+  - dp
+  - two pointers
+  - '*1700'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

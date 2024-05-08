@@ -1,0 +1,11 @@
+pid: P1363E
+owner: 2
+title: Tree Shuffling
+tag:
+  - dfs and similar
+  - dp
+  - greedy
+  - trees
+  - '*2000'
+nSubmit: 1
+nAccept: 1

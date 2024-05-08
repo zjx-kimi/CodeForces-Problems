@@ -1,0 +1,12 @@
+pid: P1861F
+owner: 1
+title: Four Suits
+tag:
+  - binary search
+  - bitmasks
+  - flows
+  - greedy
+  - '*3200'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

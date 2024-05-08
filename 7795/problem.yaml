@@ -1,0 +1,14 @@
+pid: P1497E1
+owner: 1
+title: Square-Free Division (easy version)
+tag:
+  - data structures
+  - dp
+  - greedy
+  - math
+  - number theory
+  - two pointers
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

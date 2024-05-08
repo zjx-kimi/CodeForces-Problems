@@ -1,0 +1,14 @@
+pid: P1560F2
+owner: 1
+title: Nearest Beautiful Number (hard version)
+tag:
+  - bitmasks
+  - brute force
+  - constructive algorithms
+  - dfs and similar
+  - dp
+  - greedy
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

@@ -1,0 +1,14 @@
+pid: P1408E
+owner: 1
+title: Avoid Rainbow Cycles
+tag:
+  - data structures
+  - dsu
+  - graphs
+  - greedy
+  - sortings
+  - trees
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

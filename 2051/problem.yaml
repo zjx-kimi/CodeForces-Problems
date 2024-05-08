@@ -1,0 +1,13 @@
+pid: P1569E
+owner: 1
+title: Playoff Restoration
+tag:
+  - bitmasks
+  - brute force
+  - hashing
+  - implementation
+  - meet-in-the-middle
+  - '*2600'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

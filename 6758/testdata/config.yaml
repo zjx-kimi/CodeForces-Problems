@@ -1,0 +1,5 @@
+time: 0s
+memory: 64m
+type: remote_judge
+subType: codeforces
+target: P630R

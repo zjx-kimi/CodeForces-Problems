@@ -1,0 +1,12 @@
+pid: P17B
+owner: 1
+title: Hierarchy
+tag:
+  - dfs and similar
+  - dsu
+  - greedy
+  - shortest paths
+  - '*1500'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

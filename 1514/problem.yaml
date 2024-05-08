@@ -1,0 +1,13 @@
+pid: P1671F
+owner: 1
+title: Permutation Counting
+tag:
+  - brute force
+  - combinatorics
+  - dp
+  - fft
+  - math
+  - '*2700'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

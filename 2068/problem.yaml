@@ -1,0 +1,12 @@
+pid: P1566B
+owner: 1
+title: MIN-MEX Cut
+tag:
+  - bitmasks
+  - constructive algorithms
+  - dp
+  - greedy
+  - '*800'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

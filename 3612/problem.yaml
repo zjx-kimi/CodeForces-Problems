@@ -1,0 +1,11 @@
+pid: P1251A
+owner: 1
+title: Broken Keyboard
+tag:
+  - brute force
+  - strings
+  - two pointers
+  - '*1000'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

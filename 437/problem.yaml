@@ -1,0 +1,11 @@
+pid: P1856E1
+owner: 1
+title: PermuTree (easy version)
+tag:
+  - dfs and similar
+  - dp
+  - trees
+  - '*1800'
+nSubmit: 1
+nAccept: 1
+difficulty: 6

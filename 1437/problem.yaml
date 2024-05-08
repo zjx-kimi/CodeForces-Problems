@@ -1,0 +1,11 @@
+pid: P1680E
+owner: 1
+title: Moving Chips
+tag:
+  - bitmasks
+  - dp
+  - greedy
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

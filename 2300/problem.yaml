@@ -1,0 +1,13 @@
+pid: P1519D
+owner: 1
+title: Maximum Sum of Products
+tag:
+  - brute force
+  - dp
+  - implementation
+  - math
+  - two pointers
+  - '*1600'
+nSubmit: 0
+nAccept: 0
+difficulty: 5

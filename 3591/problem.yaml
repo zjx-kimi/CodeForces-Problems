@@ -1,0 +1,14 @@
+pid: P1253D
+owner: 1
+title: Harmonious Graph
+tag:
+  - constructive algorithms
+  - dfs and similar
+  - dsu
+  - graphs
+  - greedy
+  - sortings
+  - '*1700'
+nSubmit: 1
+nAccept: 1
+difficulty: 5

@@ -1,0 +1,15 @@
+pid: P343E
+owner: 1
+title: Pumping Stations
+tag:
+  - brute force
+  - dfs and similar
+  - divide and conquer
+  - flows
+  - graphs
+  - greedy
+  - trees
+  - '*2900'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

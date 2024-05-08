@@ -1,0 +1,13 @@
+pid: P1844H
+owner: 1
+title: Multiple of Three Cycles
+tag:
+  - combinatorics
+  - data structures
+  - dp
+  - dsu
+  - math
+  - '*3400'
+nSubmit: 0
+nAccept: 0
+difficulty: 10

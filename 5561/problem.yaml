@@ -1,0 +1,11 @@
+pid: P888E
+owner: 1
+title: Maximum Subsequence
+tag:
+  - bitmasks
+  - divide and conquer
+  - meet-in-the-middle
+  - '*1800'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

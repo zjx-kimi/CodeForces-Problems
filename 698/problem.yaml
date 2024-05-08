@@ -1,0 +1,12 @@
+pid: P1808C
+owner: 1
+title: Unlucky Numbers
+tag:
+  - brute force
+  - dp
+  - greedy
+  - implementation
+  - '*1900'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

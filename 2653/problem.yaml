@@ -1,0 +1,12 @@
+pid: P1451B
+owner: 1
+title: Non-Substring Subsequence
+tag:
+  - dp
+  - greedy
+  - implementation
+  - strings
+  - '*900'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

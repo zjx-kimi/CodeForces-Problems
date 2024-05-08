@@ -1,0 +1,13 @@
+pid: P1102F
+owner: 1
+title: Elongated Matrix
+tag:
+  - binary search
+  - bitmasks
+  - brute force
+  - dp
+  - graphs
+  - '*2000'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

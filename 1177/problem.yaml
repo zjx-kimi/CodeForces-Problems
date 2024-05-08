@@ -1,0 +1,13 @@
+pid: P1729G
+owner: 1
+title: Cut Substrings
+tag:
+  - combinatorics
+  - dp
+  - hashing
+  - strings
+  - two pointers
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

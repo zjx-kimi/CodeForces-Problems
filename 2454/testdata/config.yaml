@@ -1,0 +1,5 @@
+time: 1s
+memory: 512m
+type: remote_judge
+subType: codeforces
+target: P1492A

@@ -1,0 +1,15 @@
+pid: P1466F
+owner: 1
+title: Euclid's nightmare
+tag:
+  - bitmasks
+  - dfs and similar
+  - dsu
+  - graphs
+  - greedy
+  - math
+  - sortings
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

@@ -1,0 +1,13 @@
+pid: P1611E2
+owner: 1
+title: Escape The Maze (hard version)
+tag:
+  - dfs and similar
+  - dp
+  - greedy
+  - shortest paths
+  - trees
+  - '*1900'
+nSubmit: 0
+nAccept: 0
+difficulty: 6

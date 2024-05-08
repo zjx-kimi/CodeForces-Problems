@@ -1,0 +1,13 @@
+pid: P1304B
+owner: 1
+title: Longest Palindrome
+tag:
+  - brute force
+  - constructive algorithms
+  - greedy
+  - implementation
+  - strings
+  - '*1100'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

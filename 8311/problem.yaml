@@ -1,0 +1,11 @@
+pid: P353E
+owner: 1
+title: Antichain
+tag:
+  - dp
+  - graph matchings
+  - greedy
+  - '*2200'
+nSubmit: 0
+nAccept: 0
+difficulty: 8

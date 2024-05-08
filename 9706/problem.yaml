@@ -1,0 +1,10 @@
+pid: P48A
+owner: 1
+title: Rock-paper-scissors
+tag:
+  - implementation
+  - schedules
+  - '*900'
+nSubmit: 0
+nAccept: 0
+difficulty: 3

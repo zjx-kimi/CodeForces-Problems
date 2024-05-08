@@ -1,0 +1,12 @@
+pid: P1701E
+owner: 1
+title: Text Editor
+tag:
+  - brute force
+  - dp
+  - greedy
+  - strings
+  - '*2500'
+nSubmit: 0
+nAccept: 0
+difficulty: 9

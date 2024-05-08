@@ -1,0 +1,12 @@
+pid: P1360H
+owner: 1
+title: Binary Median
+tag:
+  - binary search
+  - bitmasks
+  - brute force
+  - constructive algorithms
+  - '*2100'
+nSubmit: 0
+nAccept: 0
+difficulty: 7

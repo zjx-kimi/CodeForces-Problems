@@ -1,0 +1,12 @@
+pid: P534F
+owner: 1
+title: Simplified Nonogram
+tag:
+  - bitmasks
+  - dp
+  - hashing
+  - meet-in-the-middle
+  - '*2400'
+nSubmit: 0
+nAccept: 0
+difficulty: 9
